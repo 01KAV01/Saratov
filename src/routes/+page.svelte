@@ -1,23 +1,21 @@
 <svelte:head>
-<title>Имя Фамилия</title>
+<title>О Саратове</title>
 </svelte:head>
+
 <div class='container'>
 <div class='info'>
 <div class='animate-background'>
 <div class='container info-container'>
 <div class='info-text'>
 <h1>
-<p class='animate-text-1'>Lorem ipsum dolor sit,</p>
-<p class='text-2'>Lorem ipsum dolor sit amet.</p>
+<p class='animate-text-1'>Добро пожаловать в Саратов!</p>
 </h1>
 </div>
 <h2 class='subtitle'>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut,
-cupiditate dolores
-ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+На данном информационном ресурсе вы сможете познакомиться с историей нашего города, узнать о его достопримечательностях и насладиться его живописными видами
 </h2>
 <div style='color:black' class='scroll-button animate-scroll'>
-<a href='/about'>Click Here</a>
+<a href='/history'>Продолжить знакомство</a>
 <div class='arrow'>&#8594;</div>
 </div>
 </div>
@@ -25,7 +23,6 @@ ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
 </div>
 </div>
 <div class='background-div'></div>
-
 <style>
 .info{
 text-align: center;

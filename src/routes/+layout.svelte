@@ -17,17 +17,17 @@
         const nav = [
         {
         title:'История',
-        href:'/about',
+        href:'/history',
         },
 
         {
         title:'Достопримечательности',
-        href:'/blog',
+        href:'/attractions',
         },
 
         {
         title:'Галлерея',
-        href:'/project',
+        href:'/gallery',
         },
 
         
@@ -38,4 +38,6 @@
     max-width: 1400px;
     margin: 50px auto;
     }
+
+    
     </style>
